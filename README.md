@@ -1,5 +1,6 @@
 # Dissertation
 Developing File Extraction Methods for Open-Source Forensics Software in C#
+This code has been included in the Experimental branch of OpenForensics on Github.
 
 ## Acknowledgements
 Firstly, a huge thank you to the Abertay course organisers, module leaders, and my supervisors Dr. Ethan Bayne and Ian Ferguson for equipping me with the knowledge I needed to tackle my learning and giving me opportunities and experience I could only dream of in preparation for making my way up in the world.  
